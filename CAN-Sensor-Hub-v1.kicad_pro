@@ -41,11 +41,11 @@
           "height": 1.27,
           "width": 2.54
         },
-        "silk_line_width": 0.1,
+        "silk_line_width": 0.15,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.1,
+        "silk_text_size_h": 0.8,
+        "silk_text_size_v": 0.8,
+        "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
           "min_clearance": 0.25
@@ -58,7 +58,48 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|140650000|61225000|180cd367-a7f2-4ae6-8012-e8b770c5d347|7bd784e6-b3b5-413e-b374-55de13774cf9",
+          "Connector"
+        ],
+        [
+          "copper_edge_clearance|146250000|61225000|180cd367-a7f2-4ae6-8012-e8b770c5d347|69bd0950-3bd6-4ee7-b5e1-848b98dd3824",
+          "Connector"
+        ],
+        [
+          "copper_edge_clearance|148700000|61225000|180cd367-a7f2-4ae6-8012-e8b770c5d347|c59fe8d4-1090-4925-bc42-7bcf2eb218b3",
+          "Connector"
+        ],
+        [
+          "copper_edge_clearance|154300000|61225000|180cd367-a7f2-4ae6-8012-e8b770c5d347|ab270962-c471-4ae9-b7e8-b87a5cae6224",
+          "Connector"
+        ],
+        [
+          "copper_edge_clearance|156600000|61225000|180cd367-a7f2-4ae6-8012-e8b770c5d347|3d3d4921-91a1-4be4-844d-cfae62206f81",
+          "Connector"
+        ],
+        [
+          "copper_edge_clearance|162200000|61225000|180cd367-a7f2-4ae6-8012-e8b770c5d347|a4ca3287-7280-4050-ad92-1cd14ae5819a",
+          "Connector, ignore"
+        ],
+        [
+          "hole_clearance|129250000|67665000|466418b3-5950-4666-a77a-09213564075b|dd20aaaf-d925-46c4-a828-9aa5e5b86849",
+          "Part of footprint.."
+        ],
+        [
+          "hole_clearance|129250000|67665000|790fed3c-48fa-4fba-b9e9-ac5fead9d138|dd20aaaf-d925-46c4-a828-9aa5e5b86849",
+          "Part of footprint.."
+        ],
+        [
+          "hole_clearance|135350000|67665000|45d33aee-213a-42c6-95bb-3a3adfb7736f|f799ef97-e63a-4f79-8832-6942c950db13",
+          ""
+        ],
+        [
+          "hole_clearance|135350000|67665000|8dbdf32c-9443-485b-ab43-93255f34c808|f799ef97-e63a-4f79-8832-6942c950db13",
+          "Part of footprint.."
+        ]
+      ],
       "meta": {
         "version": 2
       },
