@@ -1,4 +1,4 @@
-25225261171250945
+25234018022821720
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59058,6 +59058,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+Graphics_Lib
+LOGO
+
+
+0
+0
+0
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -99519,6 +99526,13 @@ test point SMD pad rectangle square
 1
 1
 TestPoint
+TestPoint_Pad_D0.5mm
+
+
+0
+1
+1
+TestPoint
 TestPoint_Pad_D1.0mm
 SMD pad as test Point, diameter 1.0mm
 test point SMD pad
@@ -99669,6 +99683,27 @@ TestPoint
 TestPoint_THTPad_D4.0mm_Drill2.0mm
 THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm
 test point THT pad
+0
+1
+1
+TestPoint
+Untitled
+
+
+0
+0
+0
+TestPoint
+Untitled_1
+
+
+0
+0
+0
+TestPoint
+Untitled_2
+
+
 0
 1
 1
